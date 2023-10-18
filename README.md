@@ -8,4 +8,5 @@ Objective:
 The main objective of the Movie Ticket Booking System is to manage the details of Seats, Booking, Customer, Payment, Shows. It manages all the information about Seats, Movie, Shows, Schedules. The project is totally built at administrative end and thus only the administrator is guaranteed the access.
 
 full report slide: https://docs.google.com/presentation/d/11flDyhyrCnjqOKH3327Qw5zqlPf_WnikaBYGBA72SC8/edit#slide=id.gd09027454c_0_5
+
 credit to my team: Raof, Farhan
